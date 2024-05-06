@@ -1,3 +1,7 @@
 html{
   cursor: url(pinkarrow.cur), auto;
 }
+
+body{
+  background-color: black;
+}
