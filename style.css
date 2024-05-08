@@ -5,3 +5,10 @@ html{
 body{
   background-color: black;
 }
+
+.melodymoji{
+  right: 2px;
+  bottom: 2px;
+  position: sticky;
+  width: 200px;
+}
