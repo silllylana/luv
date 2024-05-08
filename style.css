@@ -3,12 +3,12 @@ html{
 }
 
 body{
-  background-color: black;
+  background-color: white;
 }
 
 .melodymoji{
+  position: sticky;
   right: 2px;
   bottom: 2px;
-  position: sticky;
   width: 200px;
 }
